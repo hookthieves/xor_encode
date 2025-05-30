@@ -130,5 +130,3 @@ This tool is intended for **educational and authorized security research purpose
 
 Free to use and modify under the MIT License.
 
-```
-
