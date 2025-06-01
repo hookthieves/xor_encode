@@ -1,5 +1,5 @@
 
-# XOR Encode Utility
+# XOR Encrypt Utility
 
 `Xor_encode` is a simple C-based XOR encryption utility designed for encoding shellcode and wide character strings (e.g., file paths) with a single-byte XOR key. It is primarily intended for use in red team operations, malware development research, or security-related toolchains where obfuscation of binary payloads is required.
 
